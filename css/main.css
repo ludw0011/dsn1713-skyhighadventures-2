@@ -1,0 +1,33 @@
+.navbar {
+    background-image: linear-gradient(to right, white, #6fb5e4);
+    margin: auto;
+}
+
+.form-control {
+    border-radius: 400px;
+}
+
+img {
+    max-width: 50%;
+}
+
+ul {
+    font-size: large;
+    font-weight: 700;
+}
+
+.btn {
+    color: white;
+    border-color: orange;
+    border-width: 2px;
+    border-radius: 50px;
+    margin: 10px;
+}
+    
+.nav-link.active {
+    color: orange !important;
+    text-align: right;
+}
+
+
+
