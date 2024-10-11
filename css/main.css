@@ -23,6 +23,10 @@ ul {
     border-radius: 50px;
     margin: 10px;
 }
+
+.navbutton {
+    float: right;
+}
     
 .nav-link.active {
     color: orange !important;
@@ -35,7 +39,7 @@ body{
     background-image: url(../images/paragliding_japan.jpg);
     background-repeat: no-repeat;
     background-position: 50% 25%;
-    background-attachment: scroll;
+    /* background-attachment: scroll; */
 }
 
 p {
@@ -47,5 +51,10 @@ p {
     text-align: center;
     max-width: 600px;
     color: white;
-    padding-top: 250px;
+    margin-top: 250px;
+}
+
+
+li {
+    margin: 20px;
 }
